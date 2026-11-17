@@ -1,0 +1,21 @@
+{
+  "PREFIX": "s",
+  "TOKEN": "",
+  "CLIENT_ID": "1571998104318644265",
+  "GUILD_ID": "1566499796137549935",
+  "OWNER_ROLE_ID": "1566550978394722487",
+  "ADMIN_NOTIFY_CHANNEL_ID": "1566945412223471776",
+  "ADMIN_AUTHORIZED_IDS": ["1531012834123579479"],
+  "ADMIN_HWID_PASSWORD": "SukyWaredevoWnS",
+  "WYVIPAY_API_KEY": "wy_live_SoBEJQYsfi1Hilc0zDv0csoBLvpSxiUidWOXdO5Ph7",
+  "WYVIPAY_BASE_URL": "https://api.wyvipay.com.br/v1",
+  "WYVIPAY_WEBHOOK_SECRET": "",
+  "PIX_EXPIRA_MINUTOS": 15,
+  "COMISSAO_INDICACAO_PERCENT": 10,
+  "SCRIPT_LOADSTRING": "loadstring(game:HttpGet("https://raw.githubusercontent.com/SukyWare/sukywaredev/refs/heads/main/Script.txt"))()",
+  "PORT": 3000,
+  "WEBHOOK_LOGS_SCRIPT": "https://discord.com/api/webhooks/1566945840822620282/BZQMoK9vRA-y7VGG56cL-OFZAVHTPdaa9Ys5kY68n-_Ucs3fmzDmMz4K3a6eYfDOQl2K",
+  "WEBHOOK_LOGS_RESGATE": "https://discord.com/api/webhooks/1566962003371626558/ztpJ08AimPYCewbxX5YRkBwPYtcO3Z41Z1JBtOTfRJNnpuW0m5sA9Is62_94WnSmv4B9",
+  "WEBHOOK_LOGS_KEYS_USADAS": "https://discord.com/api/webhooks/1571927242827759860/TVAWfCy7mkDy4egKx6_gjnc_iSbSu-HwFmUapF4snD8cf-YjlUYm8EKdLv5bsyk-Qw7V",
+  "WEBHOOK_LOGS_VENDAS": "https://discord.com/api/webhooks/1571927410637676756/urNU25MqZTpWztULpVy2do5cpj-EpvwBO5obLibpiby9Jm5Vo6kKijP-4OnKiF10cdSC"
+}

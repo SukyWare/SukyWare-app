@@ -1,0 +1,10 @@
+{
+  "NAME": "SukyWareBot",
+  "AVATAR": "",
+  "TYPE": "site",
+  "MAIN": "index.js",
+  "RAM": "100",
+  "VERSION": "latest",
+  "AUTORESTART": "true",
+  "START": "npm start"
+}
